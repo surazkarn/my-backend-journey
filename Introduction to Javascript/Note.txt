@@ -1,0 +1,3 @@
+Multi Purpose and Multi Paradigm programing language
+
+Multi Paradigm: supports object-oriented, imperative, and functional programming styles
