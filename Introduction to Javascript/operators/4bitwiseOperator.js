@@ -13,3 +13,4 @@ console.log(4 << 1);
 
 //right shift //loose the last bit
 console.log(5>>1); // 101 -> 10
+
