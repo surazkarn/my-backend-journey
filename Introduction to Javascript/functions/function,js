@@ -11,7 +11,8 @@ function fun(x) {
 
 //call a funtion fun(10)
 
-//if you wanna catch what the function is returning
+//if you wanna catch 
+//what the function is returning
 //what function is throwing
 //let x  = fun(10);
 console.log(fun(10));
