@@ -1,0 +1,4 @@
+set Timeout : It is a function that helps to execute some task after certain timer
+
+set Interval : execute some task again and again 
+
