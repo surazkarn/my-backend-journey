@@ -1,0 +1,16 @@
+four pillars of js
+
+
+1)Types and Coercion
+2)Scopes and Closures
+3)Asynchronous , promises
+4)Objects and Classes
+
+
+Two Phases of Js code execution
+1- Parsing -- It parses your code and do scope resolution for every variable and function
+
+2- It again start reading your code and sstarts execution
+
+23:00 branches git continued
+20:00 dom manipulation
