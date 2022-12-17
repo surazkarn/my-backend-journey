@@ -1,0 +1,24 @@
+API to create a blog(creating a resourse) -> 
+URL -> /blogs
+MEHTOD -> POST
+body parameter{
+
+}
+
+API to read all blogs -> 
+URL -> /blogs
+MEHTOD -> GET
+
+API to read a specific blog(using blog id) -> 
+URL -> /blogs/:id
+MEHTOD -> GET
+
+API to delete a blog -> 
+URL -> /blogs/:id
+MEHTOD -> DELETE
+
+API to update a blog -> 
+URL -> /blogs/:id
+MEHTOD -> PUT/PATCH                 fully update/partially update
+
+RESTful api 40 min
